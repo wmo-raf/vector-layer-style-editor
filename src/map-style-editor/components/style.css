@@ -1,0 +1,16 @@
+.editor-wrapper {
+  height: 100%;
+  width: 100%;
+  display: flex;
+}
+
+.side-bar {
+  height: 100%;
+  width: 300px;
+}
+
+.map-preview {
+  height: 100%;
+  width: 100%;
+  flex-grow: 1;
+}

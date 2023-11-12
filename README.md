@@ -1,6 +1,6 @@
 # vector-layer-style-editor
 
-Simple data-driven visual editor for Vector Layer Types
+Simple data-driven visual style editor for Vector Layer Types
 
 Vector layer types to be supported initially:
 - Circle
